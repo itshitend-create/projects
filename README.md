@@ -1,2 +1,2 @@
 # projects
-This is a Mini Project code 
+This is a Mini Project code.
